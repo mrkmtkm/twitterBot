@@ -1,6 +1,6 @@
 起動方法
-node tweet.js
 
+node tweet.js
 
 これは twitterAPI を利用して、自動フォローと自動いいねをしてくれるコードです。
 
