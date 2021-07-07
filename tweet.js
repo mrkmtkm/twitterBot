@@ -1,5 +1,6 @@
 'use strict';
 
+
 const twitter = require('twitter');
 const client = new twitter({
     consumer_key: 'ここに入力', // consumer keyを記入
